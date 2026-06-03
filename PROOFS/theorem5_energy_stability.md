@@ -1,4 +1,4 @@
-% Theorem 5 — Energy Stability Theorem
+# Theorem 5 — Energy Stability Theorem
 
 This theorem formalizes the energetic stability of the adaptive Newton process
 implemented in `FEM/nonlinear_solver.hpp`, with transport and remeshing support

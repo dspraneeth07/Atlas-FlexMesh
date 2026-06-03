@@ -1,4 +1,4 @@
-% Theorem 3 — Hyperbolic Non-Inversion Barrier Theorem
+# Theorem 3 — Hyperbolic Non-Inversion Barrier Theorem
 
 This theorem formalizes the central LAAMO claim that the inversion boundary is
 at infinite geometric distance and therefore cannot be crossed by finite-energy

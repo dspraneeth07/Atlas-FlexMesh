@@ -1,4 +1,4 @@
-% Theorem 4 — Adaptive Refinement Consistency Theorem
+# Theorem 4 — Adaptive Refinement Consistency Theorem
 
 This theorem formalizes the fact that the adaptive framework in the code base
 does not destroy finite-element convergence even though the approximation spaces
@@ -11,7 +11,8 @@ nonlinear solve loop in `FEM/nonlinear_solver.hpp`.
 Let $\Omega\subset\mathbb R^3$ be the reference domain and consider a nonlinear
 boundary-value problem whose weak form is:
 $$
-a(u,v)=\ell(v)\qquad\forall v\in V,$$
+a(u,v)=\ell(v)\qquad\forall v\in V
+$$
 where $V$ is a Hilbert space with norm $\|\cdot\|_V$ and $u\in V$ is the exact
 solution. In the code, $u$ is represented by the nodal solution vector on a
 mesh-dependent finite-dimensional subspace $V_h\subset V$.

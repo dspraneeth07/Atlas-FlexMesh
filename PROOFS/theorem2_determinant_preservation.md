@@ -1,4 +1,4 @@
-% Theorem 2 — Determinant Preservation under Lie‑Algebraic Transport and Retraction
+# Theorem 2 — Determinant Preservation under Lie‑Algebraic Transport and Retraction
 
 This theorem is written for the transport operators in `FEM/state_transport.hpp`.
 It makes the Padé(3,3) truncation order explicit, states the conditioning of the

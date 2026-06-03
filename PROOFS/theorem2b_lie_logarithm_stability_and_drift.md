@@ -1,6 +1,6 @@
-% Theorem 2B — Stability of Lie Logarithm Under Positive Jacobian Constraints
-%
-% Long-Horizon Drift Theorem — Bounded Accumulation under Repeated Lie Transport
+# Theorem 2B — Stability of Lie Logarithm Under Positive Jacobian Constraints
+
+## Long-Horizon Drift Theorem — Bounded Accumulation under Repeated Lie Transport
 
 This file collects the two stability results requested by the thesis analysis:
 first, a rigorous stability theorem for the principal matrix logarithm under

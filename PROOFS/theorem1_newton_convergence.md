@@ -1,4 +1,4 @@
-% Theorem 1 — Local Quadratic Convergence of Lie‑Stabilized Newton FEM Iterations
+# Theorem 1 — Local Quadratic Convergence of Lie‑Stabilized Newton FEM Iterations
 
 This theorem is written for the discrete Cook’s membrane/soft‑body setting in
 `APP/test_cook_membrane_real.cpp`, but the argument is structural and applies to

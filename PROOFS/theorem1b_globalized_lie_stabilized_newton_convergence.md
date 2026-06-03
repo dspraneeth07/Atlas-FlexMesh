@@ -1,4 +1,4 @@
-% Theorem 1B — Globalized Lie‑Stabilized Newton Convergence
+# Theorem 1B — Globalized Lie‑Stabilized Newton Convergence
 
 This companion theorem upgrades the local analysis by incorporating the
 backtracking line search and trust-region safeguards that are present in

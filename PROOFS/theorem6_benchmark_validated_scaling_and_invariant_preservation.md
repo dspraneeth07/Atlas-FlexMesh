@@ -1,4 +1,4 @@
-% Theorem 6 — Benchmark-Validated Scaling, Energy Efficiency, and Invariant Preservation
+# Theorem 6 — Benchmark-Validated Scaling, Energy Efficiency, and Invariant Preservation
 
 This theorem packages the large-scale benchmark evidence for the FlexMesh LAAMO
 production engine into a thesis-ready performance statement. It is written to
