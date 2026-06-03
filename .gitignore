@@ -1,0 +1,43 @@
+# Build artifacts
+/build/
+/build/**
+/Release/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.vcxproj*
+*.slnx
+*.sln
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+*.lib
+
+# IDE/editor
+.vscode/
+.idea/
+*.user
+*.log
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OneDrive/temp
+~$*
+
+# Generated reports and large binary outputs
+/output/
+/*.csv
+/*.txt
+/*.bin
+
+# Ignore cached benchmarks if you prefer to keep raw inputs elsewhere
+benchmark_output.txt
+benchmark_results.csv
+benchmark_results.json
+
+# Allow adding exceptions by removing entries above as desired
