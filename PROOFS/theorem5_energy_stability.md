@@ -71,10 +71,12 @@ the stated monotonicity and Lyapunov properties need not hold.
 
 1. In the line-search variant, the discrete energy is monotone non-increasing
    along accepted iterates:
+
    $$E_h(u_{k+1})\le E_h(u_k).$$
 
 2. In the more general accepted-step setting, the energy is bounded above by a
    telescoping sum of higher-order transport defects:
+
    $$E_h(u_n)\le E_h(u_0)+C\sum_{k=0}^{n-1} h_k^{p+1}.$$ 
 
 Moreover the discrete energy satisfies the following energy-dissipation

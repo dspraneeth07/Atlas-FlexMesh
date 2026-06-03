@@ -105,13 +105,20 @@ The local proof requires the following mesh-dependent assumptions.
   nonsingular.
 3. `Jacobian Lipschitz bound with mesh dependence.` There exists a constant
   $L_h$ such that
-  $$\|DR_h(u)-DR_h(v)\| \le L_h\|u-v\|\qquad\forall u,v\in\mathcal U_h,$$
+  
+  $$
+  \|DR_h(u)-DR_h(v)\| \le L_h\|u-v\|\qquad\forall u,v\in\mathcal U_h,$$
+
   where $\mathcal U_h$ is a local neighborhood of $u^*$.
 4. `Shape-regular mesh family.` For each element $K$ define
+  
   $$h_K := \operatorname{diam}(K),\qquad \rho_K := \text{inradius}(K),\qquad
   \gamma_K := h_K/\rho_K,$$
+
   and let
+  
   $$\gamma_h := \max_{K\in\mathcal T_h}\gamma_K$$
+
   be the mesh aspect-ratio/shape-regularity indicator.
 5. `Interpolation constants.` Let $C_{\mathrm{int}}(p,\gamma_h)$ be the standard
   finite-element interpolation constant for polynomial degree $p$ on a shape-
